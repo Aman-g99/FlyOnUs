@@ -680,6 +680,9 @@ border: 2px solid #fff;
 .facebook a:hover {
 	background: #3b5998;
 }
+.instagram a:hover {
+	background: #C50659;
+}
 .pinterest a:hover {
 	background: #cb2026;
 }
